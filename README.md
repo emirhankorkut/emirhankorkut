@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi, I'm Emirhan! <br/><a href="https://github.com/emirhankorkut">Cybersecurity Enthusiast 🔒</a>, <a href="https://www.linkedin.com/in/emirhankorkut/">💼 Penetration Tester</a></h1>
 
-<h2>👨‍💻 Cybersecurity Enthusiast 🔒</h2> <h3><c 💼 Penetration Tester & Security Researcher /c></h3>
+<h2>👨‍💻 Cybersecurity Enthusiast 🔒</h2> <h2>💼 Penetration Tester</h2> <h3><c 💼 Penetration Tester & Security Researcher </c></h3>
 
 - <b>Data Structures and Algorithms Practice</b>
 
