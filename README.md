@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>👨‍💻 Cybersecurity Enthusiast 🔒</h2> 💼 Penetration Tester & Security Researcher
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice</b>
 
 - <b>PowerShell</b>
   
