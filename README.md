@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi, I'm Emirhan! <br/><a href="https://github.com/emirhankorkut">Cybersecurity Enthusiast 🔒</a>, <a href="https://www.linkedin.com/in/emirhankorkut/">💼 Penetration Tester</a></h1>
 
-- <b>Data Structures and Algorithms Practice</b>  <b>Nmap</b>  <b>Pwncat</b>  <b>Ligolo</b>  <b>CME</b>
+- <b>Data Structures and Algorithms Practice,</b>  <b>Nmap,</b>  <b>Pwncat,</b>  <b>Ligolo,</b>  <b>CME</b>
 
 - <b>PowerShell</b>
   
